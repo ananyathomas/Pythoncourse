@@ -75,3 +75,11 @@ x = x +3
 x += 3 # same output as up known as augmented assignment operator
 
 # Operator Precedence - parenthesis > Exponent > Mul or divide > add or sub
+
+# Math Functions
+x = 2.9
+print(round(x))
+print(abs(-3.5))
+import math # Import math module to perform complex mathematical functions
+print(math.ceil(3.5))
+print(math.sin(0.524)) # sine of x RADIANS all trigonometric functions are in radians
