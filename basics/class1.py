@@ -7,6 +7,8 @@ print(' ||||')
 # python interpreter runs line by line from top
 print('*' *10) # expression
 # basically the string gets multiplied by 10
+print('Hey', 10) # can print 10 
+# print('Hello' + 10) will cause error as 10 is int and + means concatenate so write (str)10
 
 price = 10 # definition of variable
 price = price +1
