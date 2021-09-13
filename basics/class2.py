@@ -31,3 +31,14 @@ if not is_racist:
     print('Good going')
 else:
     print('Satan is already sharpening his knives')
+
+# Comparison operators
+# >,<,>=,<=,==,!= (your basics -_- )
+name = "Ananya"
+l= len(name)
+if l<3:
+    print('Must be atleast 3 characters')
+elif l>50:
+    print('Must be less than 50 characters')
+else:
+    print('Name looks good')
