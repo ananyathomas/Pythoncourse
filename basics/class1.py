@@ -74,7 +74,7 @@ print(10 % 3) # remainder
 print(10 ** 3) # Exponent operator returns 10^3
 x = 10
 x = x +3
-x += 3 # same output as up known as augmented assignment operator
+x += 3 # same output as previous operation known as augmented assignment operator
 
 # Operator Precedence - parenthesis > Exponent > Mul or divide > add or sub
 
